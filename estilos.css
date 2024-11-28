@@ -1,7 +1,12 @@
-
+/*Estilo de encabezado*/
 header{
     color: red;
     background-color: aqua;
     text-align: center;
     padding: 20px;
+}
+.container{
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
 }
