@@ -9,7 +9,12 @@ header{
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: bisque;
+    background-color: rgb(184, 131, 67);
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+.container p{
+    font-size: 16px;
+    color: darkgoldenrod;
+    line-height: 1.6;
 }
